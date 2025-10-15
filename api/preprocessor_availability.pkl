@@ -1,0 +1,18 @@
+{
+  "columns": [
+    "accommodates",
+    "bedrooms",
+    "bathrooms",
+    "beds",
+    "minimum_nights",
+    "maximum_nights",
+    "room_type",
+    "property_type",
+    "host_is_superhost",
+    "latitude",
+    "longitude",
+    "availability_365",
+    "minimum_nights_avg_ntm",
+    "neighbourhood_cleansed"
+  ]
+}

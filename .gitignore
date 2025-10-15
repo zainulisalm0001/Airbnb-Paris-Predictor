@@ -1,0 +1,9 @@
+data/raw/
+*.csv
+!data/processed/listings_processed.csv
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.env/
+.ipynb_checkpoints/
