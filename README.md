@@ -103,7 +103,7 @@ Open http://localhost:8501 in your browser.
 
 You can explore the live deployed version here:
 👉 Airbnb Paris Predictor (Streamlit App)
-(replace this link with your deployed Streamlit app once live)
+https://airbnb-paris-predictor-7mnk4uy5yth98zqbxh5w2p.streamlit.app/
 
 ⸻
 
@@ -160,3 +160,4 @@ Built with ❤️ using Python, Streamlit, and XGBoost by Muhammad Zain Ul Islam
 GitHub: @zainulisalm0001
 
 ⸻
+
